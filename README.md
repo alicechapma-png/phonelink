@@ -1,6 +1,6 @@
 # 🛡️ Phone Link: Complete Configuration & Troubleshooting Guide
 
-<p align="center"><img src="_Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
+<p align="center"><img src="Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
 
 Modern digital workspaces require maximum efficiency and seamless connectivity. Integrating your mobile device with your PC is essential for maintaining smooth workflows. The **Phone Link** application by Microsoft ensures continuous synchronization of your calls, messages, and notifications, allowing you to stay focused on your primary tasks without constantly checking your physical phone.
 
@@ -93,7 +93,7 @@ Alternatively, you may see a general disconnect notice within the Messages inter
 
 If your PC displays the message **"Grant permission from your phone"**, the smartphone's operating system is actively blocking data transmission. The desktop app will continue to disrupt your screen until these permissions are granted.
 
-<p align="center"><img src="_Imagedl79gtdl79gtdl79.png" alt="Grant Permission Request" loading="lazy"></p>
+<p align="center"><img src="Imagedl79gtdl79gtdl79.png" alt="Grant Permission Request" loading="lazy"></p>
 
 **How to fix it:**
 
@@ -109,4 +109,4 @@ Attempting to ignore, minimize, or close the Phone Link window when it's experie
 
 By taking **just 2 minutes** to walk through the configuration steps, clear out all pending error prompts, and achieve a stable connection status, Phone Link will immediately minimize to your system tray. It will remain running seamlessly in the background, keeping your workstation compliant and completely free of disruptive pop-ups.
 
-<p align="center"><img src="_Image_1q602q1q602q1q60.png" alt="Grant Permission Request" loading="lazy"></p>
+<p align="center"><img src="Image_1q602q1q602q1q60.png" alt="Grant Permission Request" loading="lazy"></p>
