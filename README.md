@@ -1,9 +1,3 @@
----
-title: "Phone Link: Complete Configuration & Troubleshooting Guide"
-description: "Step-by-step instructions to properly configure Microsoft Phone Link on Windows and stop disruptive pop-ups for good."
-layout: default
----
-
 # 🛡️ Phone Link: Complete Configuration & Troubleshooting Guide
 
 <p align="center"><img src="_Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
