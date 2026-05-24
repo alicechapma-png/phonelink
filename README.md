@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🛡️ Phone Link: Complete Configuration & Troubleshooting Guide
 
 <p align="center"><img src="Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
@@ -8,16 +12,21 @@ If you notice that the Phone Link window repeatedly pops up on your desktop or s
 
 ---
 
-## Table of Contents
+<h2 id="table-of-contents">Table of Contents</h2>
 
-1. [What is Phone Link and Why is it Completely Safe?](#1-what-is-phone-link-and-why-is-it-completely-safe)
-2. [Phone Link is a Permanent System Component](#2-phone-link-is-a-permanent-system-component)
-3. [Why Does the Application Window Keep Popping Up?](#3-why-does-the-application-window-keep-popping-up)
-4. [Step-by-Step Troubleshooting for Calls, SMS, and Notifications](#4-step-by-step-troubleshooting-for-calls-sms-and-notifications)
-   - [Issue №1: Initial Setup or Dropped Device Link](#issue-1-initial-setup-or-dropped-device-link)
-   - [Issue №2: Bluetooth Connection Error](#issue-2-bluetooth-connection-error)
-   - [Issue №3: Missing Critical Permissions on the Phone](#issue-3-missing-critical-permissions-on-the-phone)
-5. [Summary: How to Keep Phone Link Quiet](#summary-how-to-keep-phone-link-quiet)
+<ol class="toc">
+  <li><a href="#1-what-is-phone-link-and-why-is-it-completely-safe">What is Phone Link and Why is it Completely Safe?</a></li>
+  <li><a href="#2-phone-link-is-a-permanent-system-component">Phone Link is a Permanent System Component</a></li>
+  <li><a href="#3-why-does-the-application-window-keep-popping-up">Why Does the Application Window Keep Popping Up?</a></li>
+  <li><a href="#4-step-by-step-troubleshooting-for-calls-sms-and-notifications">Step-by-Step Troubleshooting for Calls, SMS, and Notifications</a>
+    <ul>
+      <li><a href="#issue-1-initial-setup-or-dropped-device-link">Issue №1: Initial Setup or Dropped Device Link</a></li>
+      <li><a href="#issue-2-bluetooth-connection-error">Issue №2: Bluetooth Connection Error</a></li>
+      <li><a href="#issue-3-missing-critical-permissions-on-the-phone">Issue №3: Missing Critical Permissions on the Phone</a></li>
+    </ul>
+  </li>
+  <li><a href="#summary-how-to-keep-phone-link-quiet">Summary: How to Keep Phone Link Quiet</a></li>
+</ol>
 
 ---
 
