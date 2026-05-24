@@ -7,7 +7,8 @@
 <title>Phone Link: Complete Configuration & Troubleshooting Guide</title>
 <style>
   :root {
-    --bg: #ffffff;
+    --bg: #f0f2f5;
+    --card-bg: #ffffff;
     --text: #1e1e2e;
     --text-soft: #555;
     --accent: #0078d4;
@@ -28,13 +29,17 @@
     line-height: 1.75;
     color: var(--text);
     background: var(--bg);
+    padding: 40px 16px 60px;
     -webkit-font-smoothing: antialiased;
   }
 
   article {
     max-width: var(--max-w);
     margin: 0 auto;
-    padding: 48px 24px 80px;
+    padding: 48px 40px 72px;
+    background: var(--card-bg);
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 20px rgba(0,0,0,0.05);
   }
 
   /* ── Headings ─────────────────────────── */
@@ -171,8 +176,8 @@
   /* ── Responsive ───────────────────────── */
 
   @media (max-width: 640px) {
-    body { font-size: 15px; }
-    article { padding: 24px 16px 48px; }
+    body { font-size: 15px; padding: 16px 8px 32px; }
+    article { padding: 28px 18px 40px; border-radius: 8px; }
     h1 { font-size: 1.55em; }
     h2 { font-size: 1.22em; }
     h3 { font-size: 1.08em; }
