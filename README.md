@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 🛡️ Phone Link: Complete Configuration & Troubleshooting Guide
 
 <p align="center"><img src="Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
