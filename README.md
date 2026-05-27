@@ -5,6 +5,10 @@
 ---
 
 <div style="text-align: center;"><p>Can't delete — but you can tweak!</p></div>
+<div style="text-align: center; font-family: 'Inter', system-ui, sans-serif; font-size: 2.2rem; font-weight: 550; color: #1e293b; background: #f1f5f9; padding: 40px 20px; border-radius: 32px; margin: 20px 0; letter-spacing: -0.01em; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    ✨ Can't delete — but you can tweak! ✨
+</div>
+
 
 ---
 
