@@ -4,7 +4,7 @@
 
 ---
 
-<div style="text-align: center;"><p></p>Can't delete — but you can tweak!</P></div>
+<div style="text-align: center;"><p>Can't delete — but you can tweak!</p></div>
 
 ---
 
