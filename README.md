@@ -12,6 +12,8 @@ Modern digital workspaces require maximum efficiency and seamless connectivity. 
 
 If you notice that the Phone Link window repeatedly pops up on your desktop or stays on top of other applications, **do not attempt to force-close, hide, or delete it 🚫**. This article explains why the only effective way to restore a seamless, uninterrupted desktop experience is to properly complete its configuration once and for all.
 
+> ⚠️ **Please Note:** Phone Link is an **integrated system component of the Windows operating system**.
+
 ---
 
 <h2 id="table-of-contents">Table of Contents</h2>
@@ -47,8 +49,6 @@ If you notice that the Phone Link window repeatedly pops up on your desktop or s
 Because it is embedded deep into the OS core, **it cannot be fully uninstalled or removed** from PC. Any attempts to force-delete it using third-party utilities or by disabling underlying system services will result in critical Windows errors, system instability, and most noticeably increasingly aggressive behavior from the application itself.
 
 When Windows detects that the link is broken or improperly configured, it triggers built-in self-repair protocols. This causes the unconfigured application window to persistently reappear on your screen until the configuration is valid.
-
-> ⚠️ **Please Note:** Phone Link is an **integrated system component of the Windows operating system**.
 
 ---
 
