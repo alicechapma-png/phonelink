@@ -3,7 +3,9 @@
 <p align="center"><img src="Image_3b5zo93b5zo93b5z.png" alt="Dialer with Disconnected Status" loading="lazy"></p>
 
 ---
+
 <div style="text-align: center;"><p></p>Can't delete — but you can tweak!</P></div>
+
 ---
 
 Modern digital workspaces require maximum efficiency and seamless connectivity. Integrating your mobile device with your PC is essential for maintaining smooth workflows. The **Phone Link** application by Microsoft ensures continuous synchronization of your calls, messages, and notifications, allowing you to stay focused on your primary tasks without constantly checking your physical phone.
