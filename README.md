@@ -5,10 +5,10 @@
 ---
 
 <div style="text-align: center;"><p>Can't delete — but you can tweak!</p></div>
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; padding: 48px 32px; margin: 20px 0;">
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; padding: 5px 2px; margin: 20px 0;">
     <span style="font-family: 'Segoe UI', monospace; font-size: 2rem; font-weight: 500; color: #38bdf8;">›</span>
-    <span style="font-family: 'Segoe UI', system-ui; font-size: 2rem; font-weight: 500; color: #1e293b; margin: 0 12px;">Don't remove —</span>
-    <span style="font-family: 'Segoe UI', system-ui; font-size: 2rem; font-weight: 600; background: linear-gradient(135deg, #38bdf8, #818cf8); background-clip: text; -webkit-background-clip: text; color: transparent;">configure</span>
+    <span style="font-family: 'Segoe UI', system-ui; font-size: 2rem; font-weight: 500; color: #1e293b; margin: 0 12px;">Can't delete — but you can </span>
+    <span style="font-family: 'Segoe UI', system-ui; font-size: 2rem; font-weight: 600; background: linear-gradient(135deg, #38bdf8, #818cf8); background-clip: text; -webkit-background-clip: text; color: transparent;">tweak!</span><p>!</p>
 </div>
 
 
