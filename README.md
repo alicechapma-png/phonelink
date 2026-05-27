@@ -17,7 +17,9 @@ Modern digital workspaces require maximum efficiency and seamless connectivity. 
 
 If you notice that the Phone Link window repeatedly pops up on your desktop or stays on top of other applications, **do not attempt to force-close, hide, or delete it 🚫**. This article explains why the only effective way to restore a seamless, uninterrupted desktop experience is to properly complete its configuration once and for all.
 
+<small>
 > ⚠️ **Please Note:** Attempting to forcibly remove a Windows system component — through third-party tools, registry edits, or manual file deletion — can lead to application errors, update failures, or unexpected system behavior..
+</small>
 
 ---
 
